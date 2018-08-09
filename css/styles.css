@@ -39,6 +39,35 @@ body{
   margin-top:2rem;
 }
 
+#info1{
+  border-bottom: 1px solid gray;
+}
+
 #info1 .info-right{
   margin-top: 5rem;
+}
+#info2{
+  margin:2rem 0;
+  border-bottom: 1px solid gray;
+  padding-bottom: 2rem;
+}
+#contact{
+  background:url(../images/img5.jpg);
+  background-size: cover;
+  background-position: center;
+}
+#contact h2{
+  text-align: center;
+  margin:1rem;
+}
+.contact-form{
+  margin: 0 auto;
+  width:40%;
+  background-color:#f4f4f4;
+  border-radius:10px;
+  opacity: .8;
+  padding:1rem;
+}
+footer{
+  margin:2rem 0;
 }
